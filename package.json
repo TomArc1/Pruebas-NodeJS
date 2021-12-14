@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "pruebanodejs",
+  "version": "1.0.0",
+  "description": "Carpeta de prueba de NodeJS",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "prueba"
+  ],
+  "author": "Tomas Arcaria",
+  "license": "ISC"
+}
