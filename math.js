@@ -20,7 +20,7 @@ module.exports = Math; //---- el module.exports permite exportar objetos funcion
 
 
 
-
 //ejemplo de funcion
-// const saludo = (name)=> console.log(`Buen día ${name} !`);
-// module.exports = saludo;
+const saludo = (name)=> console.log(`Buen día ${name} !`);
+exports.hola = saludo;
+
